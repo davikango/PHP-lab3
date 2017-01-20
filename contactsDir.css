@@ -1,0 +1,18 @@
+.directory {
+	background-color: limegreen;
+	height:100%;
+	
+}
+
+p {
+	font-weight: bold;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    border-radius: 6px;
+    color: black;
+    padding: 2px 4px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
